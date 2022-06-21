@@ -1,7 +1,6 @@
 {
   "name": "servidor_video",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "start": "nodemon src/index.js"
@@ -16,5 +15,14 @@
   },
   "devDependencies": {
     "nodemon": "^2.0.16"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fercasloz/ServidorFinal.git"
+  },
+  "bugs": {
+    "url": "https://github.com/fercasloz/ServidorFinal/issues"
+  },
+  "homepage": "https://github.com/fercasloz/ServidorFinal#readme",
+  "description": ""
 }

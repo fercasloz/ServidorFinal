@@ -3,9 +3,9 @@ POST http://localhost:9000/api/user HTTP/1.1
 Content-Type: application/json
 
 {
-    "name": "Roberto",
-    "age": "44",
-    "email":"robertoloveRM@email.com"
+    "name": "HArry Potter",
+    "age": "67",
+    "email":"harrypotter12@email.com"
 }
 
 ###
@@ -14,7 +14,7 @@ GET http://localhost:9000/api/user HTTP/1.1
 
 ###
 
-GET http://localhost:9000/api/user/62b03cd33dd10f65af0b40a4 HTTP/1.1
+GET http://localhost:9000/api/user/62b03e8a3c3a6fe9cc9813f6 HTTP/1.1
 
 ###
 

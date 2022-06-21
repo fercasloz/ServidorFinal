@@ -1,0 +1,71 @@
+body{
+    width: 715px;
+    margin: 0 auto;
+}
+
+h1{
+    text-align: center;
+}
+
+form {
+    width: 715px;
+}
+
+img{
+    width: 40px;
+    height: 20px;
+    
+}
+form{
+    text-align: center;
+}
+.tablita{
+    display: inline-block;    
+}
+
+/*Tablaaaaaa Estilos*/
+table {
+    width: 100%;
+    border: 1px solid #000;
+ }
+uid{
+    display: none;
+}
+
+ th, td {
+    width: 25%;
+    text-align: left;
+    vertical-align: top;
+    border: 1px solid #000;
+    border-collapse: collapse;
+    padding: 0.3em;
+ }
+
+ caption {
+    padding: 0.3em;
+ }
+
+
+
+
+.caja{
+    display: block;
+}
+.caja label{
+    font-family: 'Quicksand', sans-serif;
+}
+.caja input{
+    width: 8em;
+    height: 2em;
+    text-align: center;
+    font-family: 'Quicksand', sans-serif;  
+}
+.submit{
+    width: 8em;
+    height: 2em;
+    font-family: 'Quicksand', sans-serif;
+    color: white;
+    background-color: #00438D;
+    border: 2px solid white;
+}
+
